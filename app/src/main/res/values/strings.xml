@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amozon</string>
+    <string name="nav_open">open_Navigation_Drawer</string>
+    <string name="nav_close">close_Navigation_Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
